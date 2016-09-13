@@ -11,5 +11,3 @@ Then there is the portion that Professor Fitzgerald has assigned and that has no
 I will continue cutting down this beast until it is done.
 
 My program is located at http://www.csun.edu/~wsc10943/cgi-bin/simple.cgi
-
-Thank you and have a nice day.
