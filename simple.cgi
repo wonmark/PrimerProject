@@ -25,26 +25,27 @@
 echo "Content-type: text/html"
 echo ""
 
-echo "<hr>"
-echo "<hr>"
+echo "<head>"
+echo "<title>Dr. Light</title>"
+echo "<link rel="stylesheet" type="text/css" href="onstyle.css">"
+echo "</head>"
+
+echo "<h2>"
 echo "To think or not to think..."
 echo "<br>"
 echo "&emsp; &emsp; &emsp; &emsp;"
 echo "&emsp; &emsp; &emsp; &emsp;"
-echo "I like turtles and CLOUD ATLAS"
-
-echo "<br>"
-echo "<br>"
-echo "<br>"
-echo "<br>"
-echo "<br>"
+echo "I like turtles and $QUERY_STRING"
+echo "</h2>"
 
 
-#b='echo "$QUERY_STRING" | sed -n 's/^.*b=\([^&]*\).*$/\1/p' | sed "s/%20/ /g"
-#echo "$b"
-
-#if [ "REQUEST_METHOD" = "GET" ] ; then
-#    echo "b"
+echo "<br>"
+echo "<br>"
+echo "<br>"
+echo "<br>"
+echo "<br>"
+echo "<br>"
+echo "<br>"
 
 
 /usr/bin/curl https://www.csun.edu/~jeffw/
