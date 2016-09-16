@@ -35,7 +35,7 @@ echo "To think or not to think..."
 echo "<br>"
 echo "&emsp; &emsp; &emsp; &emsp;"
 echo "&emsp; &emsp; &emsp; &emsp;"
-echo "I like turtles and $QUERY_STRING"
+echo "I like turtles + $QUERY_STRING"
 echo "</h2>"
 
 
