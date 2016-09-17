@@ -4,11 +4,11 @@ The original plan was to make a cgi program that displays a header, blank space 
 
 I have completed that portion of the assignment.
 
-Then there is the portion that Professor Fitzgerald has assigned and that has not been accomplished.
+Then there is the portion that Professor Fitzgerald has assigned.
 
-What I have done is get the query string, redirect homepage to program, and use external style sheets.
+I have gotten the query string, redirected homepage to program with errors included, and used external style sheets.
 
-I will continue to cut down this beast until it is done.
+To my knowledge, the project is complete. But yet, my knowledge is limited so take it with a grain of salt.
 
 My homepage is www.csun.edu/~wsc10943 and
 
